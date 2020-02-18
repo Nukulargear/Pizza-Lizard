@@ -1,6 +1,11 @@
 <?php
 ?>
 <!DOCTYPE html>
-<head>
-	<title>Test</title>
-</head>
+<html>
+	<head>
+		<title>Test</title>
+	</head>
+	<body>
+		<p>test</p>
+	</body>
+</html>
