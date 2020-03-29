@@ -6,6 +6,7 @@ body {
     color: #FDA91D !important;
 }
 left {
+    border: 3px solid #73AD21;
     position: relative !important;
     magin-left: 5% !important;
     padding-top: 60px !important;
