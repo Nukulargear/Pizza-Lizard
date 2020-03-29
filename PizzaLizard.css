@@ -5,3 +5,7 @@ body {
     background-color: #000000 !important;   
     color: #FDA91D !important;
 }
+left {
+    magin-left: 1% !important;
+    padding-top: 60px !important;
+}
