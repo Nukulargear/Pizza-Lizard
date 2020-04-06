@@ -5,9 +5,15 @@ body {
     background-color: #000000 !important;   
     color: #FDA91D !important;
 }
+
+#center {
+    border: 3px solid #77777;
+    position: relative !important;
+}
+
 #left {
     border: 3px solid #73AD21;
     position: relative !important;
-    magin-left: 5% !important;
+    margin-left: 5% !important;
     padding-top: 60px !important;
 }
