@@ -14,12 +14,13 @@ body {
 
 #left {
     border: 1px solid #73AD21;
-    position: fixed !important;
+    position: relative !important;
     margin-left: 0% !important;
     width: 10% !important;
 }
 
 footer {
     border: 1px solid #73AD21;
+    position: relative !important;
     padding-bottom: 10px !important;
 }
