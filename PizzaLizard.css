@@ -6,6 +6,10 @@ body {
     color: #FDA91D !important;
 }
 
+jumbotron {
+    margin-left: 10% !important;
+}
+
 #center {
     border: 3px solid #73AD21;
     position: relative !important;
