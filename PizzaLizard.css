@@ -1,5 +1,5 @@
 body {
-    margin-left: 10% !important; /*width of sidebar*/
+    /*margin-left: 10% !important;*/ /*width of sidebar*/
     margin-right: 10% !important;
     padding-top: 60px !important;
     background-color: #000000 !important;   
@@ -9,6 +9,7 @@ body {
 #center {
     border: 3px solid #73AD21;
     position: relative !important;
+    margin-left: 10%
 }
 
 #left {
