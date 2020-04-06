@@ -14,7 +14,7 @@ body {
 
 #left {
     border: 3px solid #73AD21;
-    position: relative !important;
-    margin-left: 5% !important;
+    position: fixed !important;
+    margin-left: 0% !important;
     width: 10% !important;
 }
