@@ -9,7 +9,8 @@ body {
 #center {
     border: 1px solid #73AD21;
     position: absolute !important;
-    margin-left: 10%
+    margin-left: 10% !important;
+    margin-right: 10% !important;
 }
 
 #left {
