@@ -17,11 +17,12 @@ body {
     border: 1px solid #73AD21;
     position: absolute !important;
     margin-left: 0% !important;
-    width: 9% !important;
+    width: 10% !important;
 }
 
 footer {
     border: 1px solid #73AD21;
     position: absolute !important;
+    padding-top: 100px !important;
     padding-bottom: 10px !important;
 }
