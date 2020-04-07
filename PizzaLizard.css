@@ -14,7 +14,7 @@ body {
 
 #left {
     border: 1px solid #73AD21;
-    position: relative !important;
+    position: absolute !important;
     margin-left: 0% !important;
     width: 9% !important;
 }
